@@ -1,0 +1,32 @@
+# --- Allegro Common Lisp / Common Graphics ---
+*.fasl
+*.dxl
+*.bil
+*.dfsl
+*.ofasl
+*.cfasl
+*.abcl
+*~
+*.bak
+
+# Arquivos de imagem/execução gerados
+*.exe
+dist/
+build/
+
+# Arquivos de log e temporários do Allegro
+*.log
+generate-application.log
+
+# Backups automáticos de editor
+*.cl~
+*.lisp~
+#*#
+
+# --- Windows / editor ---
+Thumbs.db
+desktop.ini
+*.tmp
+
+# --- VSCode (se usar pra editar .cl fora do Allegro) ---
+.vscode/

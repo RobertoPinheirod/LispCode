@@ -1,0 +1,71 @@
+;; BEGINNING OF FILE
+
+;; This text should be saved to a file named devel.lic
+;; in the Allegro directory.  Make sure the first line
+;; in the file is ``;; BEGINNING OF FILE'', and that
+;; there is no other text preceding the first
+;; semi-colon (;) on that line.  Make sure the last
+;; line in the file is ``;; END OF FILE''.
+
+;; This license file is for version 11.0 of Allegro
+;; CL.  It is not possible to use it with other
+;; versions of Allegro CL.
+
+;; This license is valid on any computer in your
+;; possession.
+
+;; This file contains the license necessary to execute
+;; Allegro CL.  Preceding the license there is a
+;; comment describing the contents of the encrypted
+;; block of text.  Included in the encrypted text is
+;; information identifying the licensee.
+
+;; Once your license expires, you can update your
+;; license and continue using Allegro CL by running
+;; the `newlicense' program.  On Windows, there is a
+;; menu item on the Start menu for running
+;; `newlicense'.   On both UNIX and Windows you can
+;; find the `newlicense' program in the Allegro CL
+;; directory.
+
+;; If you have questions or comments, please contact
+;; us at support@franz.com +1 510-452-2000, Franz
+;; Inc., 3685 Mt Diablo Blvd, Suite 300, Lafayette, CA
+;; 94549-6884, USA).
+;;
+;; License created on May 28, 2025, 20:05:21.
+
+;; 
+;; If your email address changes, please visit
+;; http://franz.com/lfs/emailupdate to notify Franz
+;; Inc. of your new email address and to get a new
+;; license file containing this new email address.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; ACL version: 11.0
+;; ACL type: trial
+;; Architecture: <all>
+;; Licensed to: Allegro CL 11.0 Express user
+;; Email address: NA
+;; Expiration date: 2027-6-15 00:00:00
+;; AllegroCache # connections limit: 3
+;; AllegroCache # objects limit: 500000
+;; AllegroCache # commits limit: 100000
+;; AllegroCache # classes limit: 100
+;; Nag period: 536870911
+;; Features: enterprise-jlinker generate-application
+;;   runtime
+(:lisp
+ "RpUWP6h+bVm8DnLMFqGxCh10X/lKvAGo02Vc2kKK5B8qYr3wSXoq
+3HaKsHqTaxxJ5A+172+ZKCHPa5p8iILvo0buHma45fhE2uZQD2NB
+rX/Bte6gqW4cAEmvRcP4vdxna9uaffuVt2KokRlJH8Nbh+ddntKC
+K58dE1A5UbqY+gMTUyFgaBkHULiHHUsKp6jWpVyeqm6Y1MhWfTKN
+MiIUgunc/8WI5riWCKvVd9soubITHfq6tsSTD1Rw8qPW2zVCwAKG
+Q1C/bQYvKPDiHDqLDQtirbSANoaGejQWeH7cupsrfozLNbpnZBgG
+rfWAWzOaJv4ViVmCZxNZ5ggeOZH+KFRonVRKGCAAeW7R2PeXyIOl
+M8X0ovpW/Q8toMQXXJ4bm37NHaCjhSYtV1INbJjSsnysBM5rX5Xw
+o8cyXhKjsG4oniohzGPFMg/eHNpdqwGJc23YnybpKz6Pvc2HiVG8
+g7ttdLhJyuUuT2fBzsgrjdkjnzKmB/cnWeTScH0MrVQfFQ=="
+ "bmls")
+
+;; END OF FILE
