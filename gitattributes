@@ -1,0 +1,7 @@
+# Forca o GitHub a reconhecer estes arquivos como Common Lisp,
+# corrigindo a deteccao automatica (que confunde .lpr com Pascal/Lazarus
+# e pode confundir .cl com OpenCL)
+
+*.cl   linguist-language=Common-Lisp
+*.lisp linguist-language=Common-Lisp
+*.lpr  linguist-language=Common-Lisp
